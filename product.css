@@ -659,4 +659,15 @@ button{
     /* .bg{
         background-image: url(./img/Bgggg.png);
     } */
+    .flex2{
+        flex-direction: row;
+        display: flex;
+    }
+    .align-normal{
+        text-align: left;
+    }
+    .mini-paddings{
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
