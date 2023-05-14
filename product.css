@@ -333,8 +333,8 @@ button{
     padding-top: 0;
     margin-top: 0;
 }
-.peoples-container{
-    padding-left: 16px;
+.peoples.container{
+    margin-left: 16px;
 }
 .human-comments{
     background-color: #FFFFFF;
@@ -669,5 +669,115 @@ button{
     .mini-paddings{
         padding-left: 0;
         padding-right: 0;
+    }
+    #customer-container{
+        padding-left: 0;
+    }
+    .peoples-container{
+        align-items: center;
+    }
+    .second-bg{
+        height: auto;
+    }
+    .firsts-peoples{
+        padding: 0;
+    }
+    .mini-paddings{
+        width: auto;
+    }
+    .button-expert{
+        align-items: center;
+    }
+    .strategies-container{
+        align-items: center;
+    }
+    .strategies-describe, .strategies-title{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .carosolt{
+        display: none;
+    }
+    .price-item, .price-item2{
+        height: auto;
+        margin-bottom: 32px;
+    }
+    .spb{
+        justify-content: center;
+        align-items: center;
+    }
+    .mpm{
+        flex-direction: row;
+    }
+    .on-button, .on-button2{
+        margin-bottom: 32px;
+    }
+    .price-title, .price-subttl{
+        align-items: center;
+    }
+    .marg-r{
+        width: 50px;
+        height: 50px;
+    }
+    .client-profile{
+        margin-bottom:25px ;
+    }
+    .clients-item{
+        margin-bottom: 32px;
+        width: auto;
+    }
+    .coment-3pcs, .client-coments{
+        margin-right:25px ;
+    }
+    .green-block{
+        width: 100%;
+    }
+    #height-auto{
+        height: auto;
+        margin-left: 0;
+        align-items: center;
+    }
+    .gb-ttl{
+        width: auto;
+        text-align: center;
+        margin-left: 0;
+    }
+    #dada{
+        width: auto;
+        margin-left: 0;
+    }
+    .gt-button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nush-ce-sa-mai-scriu{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #gt{
+        margin-left: 0;
+    }
+    .hmm{
+        align-items: center;
+        justify-content: center;
+    }
+    #marg0, #marg1, #marg2, #marg3, #marg4, #marg5{
+        margin: 0;
+    }
+    .btm-res, .btm-list{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .motto{
+        text-align: center;
+    }
+    .center{
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
