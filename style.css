@@ -52,6 +52,9 @@
     justify-content: space-between;
     width: 100%;
 }
+#burger{
+    display: none;
+}
 .primary-button{
     background-color: #02897A;
     height: 43px;
@@ -194,4 +197,20 @@
         justify-content: center;
         width: 100%;
     }
+    #burger{
+        display: flex;
+        height: 100%;
+        justify-content: center;
+    }
+    .nush{
+        width: 28px;
+        height: 31px;
+    }
+    .hmm-width{
+        width: 100%;
+    }
+    .nav{
+        margin: 0 30px;
+    }
+
 }
